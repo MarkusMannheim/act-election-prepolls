@@ -98,7 +98,6 @@ h1, p {
   fill: #333;
   font-size: .8rem;
   text-anchor: middle;
-  font-weight: bold;
 }
 .plot {
   stroke-width: 4;
@@ -117,12 +116,6 @@ h1, p {
   }
   #description {
     font-size: 1rem;
-  }
-  .tick text {
-    font-size: .75rem;
-  }
-  #label {
-    font-size: .85rem;
   }
   .plot {
     stroke-width: 4;
